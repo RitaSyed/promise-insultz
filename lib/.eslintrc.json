@@ -69,12 +69,6 @@
         "after": true
       }
     ],
-    "no-console": [
-      "error",
-      {
-        "allow": ["error"]
-      }
-    ],
     "no-debugger": "error",
     "no-mixed-spaces-and-tabs": "error",
     "no-multiple-empty-lines": [
